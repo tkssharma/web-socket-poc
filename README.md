@@ -1,4 +1,4 @@
-# Regitsering web socket client to Node JS Server
+# Registering web socket client to Node JS Server
 
 Registering web socket clients to Server and sending events back to selected Clients based on Business Logic
 
