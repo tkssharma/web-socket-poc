@@ -1,0 +1,18 @@
+{
+  "name": "poc-websocket",
+  "version": "1.0.0",
+  "description": "poc websocket",
+  "scripts": {
+    "start:server": "nodemon server/index.js",
+    "start:web": "http-server client --watch"
+  },
+  "keywords": [],
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "http-server": "^0.12.0",
+    "redis": "^2.8.0",
+    "socket.io": "^2.1.1",
+    "socket.io-redis": "^5.2.0",
+    "socketio-auth": "^0.1.1"
+  }
+}
